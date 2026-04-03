@@ -1,0 +1,24 @@
+PCTFREE 10
+
+
+
+IMPORTANTE PARA PERFORMANCE
+PORCENATGEM LIVRE DE QUANTOS POR CENTO ?
+
+
+LEMNBRE DE UMA COLMEIA OU DE UM TABULEIRO , 
+ELE ESTÁ DIZENDO QUE 10 DA COLMEIA ESTA LIVRE PARA DELETE E ETC 
+INSERT OCUPA MAIS ESPAÇO 
+10 DE CADA OBEJTO - LIMITE MAXIMO LIVRE OU NÃO USADO
+
+
+VOLUME - PCTFREE 
+
+_____________________________________________________________________________
+QUANDO VC TEM O CONHECIMENTO ALINHADO A OPORTUNIDADE VAI LÁ E FAÇA 
+
+
+__________________________________________________________
+UMA TABELA É UM OBJETO Da tableespace 
+
+forma de cubo de gelo - datafile chega no máximo a 2 gigas - limitação 
